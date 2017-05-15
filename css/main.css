@@ -3,25 +3,39 @@ body{
 	background-color: #1FCF77;
 }
 
+.page-wrapper{
+width: 960px;
+margin: 15px auto;
+border: 5px solid #999999;
+background-color: #BBF1D5;
+}
+
+
 h1{
 	font-family: Helvetica;
 	text-align: center;
 	background-color: ;
 	color:;
 	font-size: 200%;
-	border-color: red;
+
 }
 h2, h3 {
 	font-family: Helvetica;
 	text-align: center;
 	background-color: ;
-	color:;
+	color:#5D0E5D;
 	font-size: 160%;
+	text-decoration: underline;
 }
-.summary,
-.preamble p,
-#zen-supporting p{
-	background-color: #DAF7A6;
+
+ .summary,
+.preamble,
+.explanation, 
+.participation,
+.benefits,
+.requirements,
+footer{
+	
 	color: #581845;
 	font-size: 120%;
 }
