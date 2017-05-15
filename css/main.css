@@ -1,1 +1,28 @@
-/* Agrega aquí tus estilos*/
+
+body{
+	background-color: #1FCF77;
+}
+
+h1{
+	font-family: Helvetica;
+	text-align: center;
+	background-color: ;
+	color:;
+	font-size: 200%;
+	border-color: red;
+}
+h2, h3 {
+	font-family: Helvetica;
+	text-align: center;
+	background-color: ;
+	color:;
+	font-size: 160%;
+}
+.summary,
+.preamble p,
+#zen-supporting p{
+	background-color: #DAF7A6;
+	color: #581845;
+	font-size: 120%;
+}
+
